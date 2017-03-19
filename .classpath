@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="/home/wjc/src/colt/lib/colt.jar" sourcepath="/media/wjc/00030E30000B59B2/src/colt/src">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/home/wjc/src/colt/doc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/wjc/src/colt/lib/concurrent.jar"/>
+	<classpathentry kind="lib" path="/media/wjc/00030E30000B59B2/src/junit-4.10.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
